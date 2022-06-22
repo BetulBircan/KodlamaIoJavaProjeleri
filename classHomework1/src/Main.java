@@ -2,6 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        //Courses objects and lists
         Courses course1 = new Courses(1, "Yazılım Geliştirme Kampı(JAVA + REACT)", "15 DERS",
                 "ENGİN DEMİROĞ" );
 
@@ -20,6 +21,15 @@ public class Main {
             System.out.println("Kurs ID: " + course.id + "  " +  "Kurs Adı: " +  course.name
                     + "  " + "Ders: " +course.lessons + "  " + "Eğitmen: " + course.instructor
             );
+        }
+
+        //Instructors Objects and lists
+        Instructors instructor1 = new Instructors(1, "ENGİN DEMİROĞ");
+
+        Instructors[] instructors = {instructor1};
+
+        for (Instructors instructor : instructors) {
+            System.out.println("Eğitmen ID: " +  instructor.id + "  " + " Eğitmen: " +instructor.fullName);
         }
 
     }
