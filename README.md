@@ -1,5 +1,5 @@
-# KodlamaIoJavaHomeWorksHomework
-## Homework1
+# KodlamaIoJavaProjeleri
+## Proje1
 ## İsterler
 - Kodlama.io sitesine gidiniz.
 - Özellik nesnesi olarak tanımladığımızı düşündüğünüz iki örnek veriniz.
@@ -24,7 +24,7 @@
 
 ![class3](https://user-images.githubusercontent.com/86554799/175165875-0f3ca0b3-fd76-47c0-8c2c-4c0055a19a08.jpg)
 
-## Homework2
+## Proje2
 ## İsterler
 - Kodlama.io projesini yazdığınızı düşünelim.
 
